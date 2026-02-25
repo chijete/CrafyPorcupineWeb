@@ -11,7 +11,7 @@
   <h1>CrafyPorcupineWeb</h1>
   <p>PorcupineWeb instance: Porcupine Wake Word (offline voice keyword detection) with async script load.</p>
   <p><a href="https://picovoice.ai/docs/quick-start/porcupine-web/">Picovoice Official documentation</a></p>
-  <p>Project for "Almeja" - <a href="https://chijete.com/">Crafy Holding</a> voice assistant.</p>
+  <p>Project for "Almeja" - <a href="https://crafy.net/">Crafy Holding</a> voice assistant.</p>
 
   <button id="startButton">START</button>
 
